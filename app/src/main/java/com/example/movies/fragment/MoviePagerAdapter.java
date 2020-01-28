@@ -1,4 +1,4 @@
-package com.example.movies;
+package com.example.movies.fragment;
 
 import android.os.Bundle;
 
@@ -6,6 +6,8 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
+
+import com.example.movies.fragment.MovieFragment;
 
 public class MoviePagerAdapter extends FragmentPagerAdapter {
 

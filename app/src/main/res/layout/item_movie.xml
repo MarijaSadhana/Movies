@@ -64,9 +64,6 @@
             android:textStyle="italic"
             android:gravity="right"/>
 
-
-
-
          </LinearLayout>
 
     </LinearLayout>

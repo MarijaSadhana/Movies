@@ -1,4 +1,4 @@
-package com.example.movies;
+package com.example.movies.fragment;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -13,6 +13,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.example.movies.Movie;
+import com.example.movies.R;
 
 import java.util.List;
 

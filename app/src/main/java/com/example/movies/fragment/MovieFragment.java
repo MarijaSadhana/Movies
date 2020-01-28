@@ -1,4 +1,4 @@
-package com.example.movies;
+package com.example.movies.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,6 +15,10 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.movies.Movie;
+import com.example.movies.MovieRepository;
+import com.example.movies.R;
+import com.example.movies.activity.DetailsActivity;
 
 import java.util.ArrayList;
 import java.util.Collections;
